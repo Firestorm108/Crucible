@@ -3,4 +3,6 @@ Today I made a rough BOM and understood how the printhead actually functions wit
 
 Also I designed the frame out of extrusions, looking sturdy so far.
 
-<img width="577" height="663" alt="CleanShot 2025-07-31 at 01 12 15" src="https://github.com/user-attachments/assets/a3877e1b-b9e8-457e-99de-52f8fe179c52" />
+<img width="680" height="712" alt="CleanShot 2025-07-31 at 01 13 35" src="https://github.com/user-attachments/assets/6455e381-a755-4395-bb60-6f2615fe1a8b" />
+
+
