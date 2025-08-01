@@ -1,3 +1,15 @@
+---
+title: "Crucible"
+author: "Sidd"
+description: "Bedslinger 3DP"
+created_at: "2025-07-30"
+total_time: "15 Hours"
+---
+
+
+
+
+
 <h1>July 30th</h1>
 Today I made a rough BOM and understood how the printhead actually functions with all the fans, the extruder, and hotend, etc. I chose to make this bedslinger with lots of nice features that would make it rival my A1, which would be insanely helpful for printing a lot of stuff.
 
@@ -32,3 +44,9 @@ After that, I finished the wiring diagram and got a really cool render of the 3d
 
 
 <img width="1504" height="724" alt="Assembly_2025-Aug-01_12-57-42AM-000_CustomizedView17772150520" src="https://github.com/user-attachments/assets/3c1280d8-d378-4483-a5a3-cebb6d7aac49" />
+
+About to submit now. I'll be getting everything ready. (README, pictures, CAD, bom, etc.) It was a fun time designing this! While I didn't get much sleep last night it was worth it waking up at at 4am (after having slept at 1am lmao)
+
+Total Time Spent: 15 Hours
+
+
