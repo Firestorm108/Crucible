@@ -20,13 +20,13 @@ Also I designed the frame out of extrusions, looking sturdy so far.
 
 <h1> July 31st</h1>
 
-Today I started off with doing the y axis and adding a bit.
+Today I started off with doing the y axis and adding a bit to the frame. Took me a bit and I stayed up pretty late unfortunately. 
 
 <img width="624" height="610" alt="CleanShot 2025-07-31 at 17 48 08" src="https://github.com/user-attachments/assets/b90b152e-fa91-4b66-a429-76effa619aee" />
 
 However the build was a bit too "noodly" as some of my peers said lol (as this is my first 3dp I had to learn about everything in a short amount of time)
 So I buffed it up a lot. I added more brackets, extrusions, the whole works. I also did the z axis which was a pain and everything about this stressed me. It felt like the final day of Undercity,
-struggling to get everything in especially since this is a design I'm super proud of.
+struggling to get everything in especially since this is a design I'm super proud of. Although it's not the most optimal design, I think it's pretty clean, upgradable, and useful in general.
 
 <img width="616" height="580" alt="CleanShot 2025-07-31 at 17 48 43" src="https://github.com/user-attachments/assets/c65e59d4-4158-4a28-ba78-9c8b442a1ad1" />
 
