@@ -20,7 +20,7 @@ Also I designed the frame out of extrusions, looking sturdy so far.
 
 <h1> July 31st</h1>
 
-Today I started off with doing the y axis and adding a bit to the frame. Took me a bit and I stayed up pretty late unfortunately. 
+Today I started off with doing the y axis and adding a bit to the frame. Took me a bit and I stayed up pretty late unfortunately. I did the belt system for the y axis which I'm still new to. Belts are cool but they're really hard to understand for some reason.
 
 <img width="624" height="610" alt="CleanShot 2025-07-31 at 17 48 08" src="https://github.com/user-attachments/assets/b90b152e-fa91-4b66-a429-76effa619aee" />
 
